@@ -1,6 +1,7 @@
 # Simple Pay PWA
 
-![Simple Pay Logo](./assets/image.png)
+![Simple Pay Logo](./image.png)
+
 
 ## Overview
 
