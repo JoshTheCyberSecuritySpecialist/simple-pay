@@ -1,0 +1,8 @@
+<h2>Welcome, {{ current_user.username }}</h2>
+<a href="{{ url_for('pay') }}">Make a Payment</a>
+<a href="{{ url_for('logout') }}">Logout</a>
+<ul>
+    {% for payment in payments %}
+        <li>{{ payment.amount }} USD - {{ payment.date }} - {{ payment.status }}</li>
+    {% endfor %}
+</ul>
