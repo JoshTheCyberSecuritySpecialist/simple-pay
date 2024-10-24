@@ -1,6 +1,6 @@
 # Simple Pay PWA
 
-![Simple Pay Logo](https://via.placeholder.com/728x90.png?text=Simple+Pay)
+![Simple Pay Logo](./assets/image.png)
 
 ## Overview
 
