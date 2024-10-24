@@ -1,6 +1,6 @@
 # Simple Pay PWA
 
-![Simple Pay Logo](./image.png)
+![Simple Pay Logo](./simplepay-rocket.webp)
 
 
 ## Overview
